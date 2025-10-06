@@ -1,0 +1,5 @@
+{
+  "name": "Rule-Based Chatbot",
+  "description": "A simple chatbot that responds to user inputs based on predefined rules, demonstrating a basic understanding of natural language processing and conversation flow.",
+  "requestFramePermissions": []
+}
